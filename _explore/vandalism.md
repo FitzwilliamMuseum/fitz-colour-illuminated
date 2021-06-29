@@ -8,7 +8,7 @@ image: "/images/explore/Marlay cutting It. 35_mas.jpg"
 
 The vandalism inflicted on illuminations took many forms. Precious materials were scraped off, images were censored, defaced or cut out of manuscripts. The latter activity reached unprecedented levels c.1800. After the French Revolution, Napoleon’s campaigns and the secularisation of religious houses, the art market was flooded with manuscripts and their images were rediscovered as the ‘treasures of a lost art.’ Removed from the volumes, the illuminations were pasted into albums, framed as paintings and reproduced in publications, bringing medieval art to wider audiences and promoting the revival of illumination as an art form. This, in turn, inspired the restoration of originals and the creation of forgeries. Today, most manuscript conservators focus on preservation by consolidating loose pigments, but avoid filling in paint losses or removing modern retouches. Mathematical algorithms and digital technologies help reconstruct damaged and overpainted images virtually.
 
-[![Ascension Border miniature from a Book of Hours France, Tours, c.1490-1500](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_8_1.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_8_1.jpg "Ascension, Border miniature from a Book of Hours, France, Tours, c.1490-1500<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Ascension Border miniature from a Book of Hours France, Tours, c.1490-1500]({{site.baseurl}}/images/explore/colour_8_1.jpeg){: .img-fluid }
 
 ##### Ascension  
 Border miniature from a Book of Hours  
@@ -21,7 +21,7 @@ Kneeling at the foot of the Mount of Olives, Mary and the disciples look up in a
 ##### Cat. 32 - Fitzwilliam Museum, Marlay cutting Z. 10a (Cat. 32)  
 Bequeathed by Charles Brinsley Marlay in 1912
 
-[![Deposition Collage of fragments from the Missals of Pope Clement VII Italy, Rome, 1523-1534](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_8_2.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_8_2.jpg "Deposition, Collage of fragments from the Missals of Pope Clement VII, Italy, Rome, 1523-1534<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Deposition Collage of fragments from the Missals of Pope Clement VII Italy, Rome, 1523-1534]({{site.baseurl}}/images/explore/colour_8_2.jpeg){: .img-fluid }
 
 ##### Deposition  
 Collage of fragments from the Missals of Pope Clement VII  
@@ -34,7 +34,7 @@ This ‘painting’ is a montage of five parts: Christ’s Deposition; Justice a
 ##### Cat. 33 - Fitzwilliam Museum, Marlay cutting It. 34  
 Bequeathed by Charles Brinsley Marlay in 1912
 
-[![Crucifixion Leaf from an Antiphoner France, Paris, c.1890-1920](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_8_3.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_8_3.jpg "Crucifixion, Leaf from an Antiphoner, France, Paris, c.1890-1920<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Crucifixion Leaf from an Antiphoner France, Paris, c.1890-1920]({{site.baseurl}}/images/explore/colour_8_3.jpeg){: .img-fluid }
 
 ##### Crucifixion  
 Leaf from an Antiphoner  
@@ -47,7 +47,7 @@ This Crucifixion is a modern work painted on a page from a fifteenth-century Ita
 ##### Cat. 34 - Fitzwilliam Museum, Marlay cutting Z. 16  
 Bequeathed by Charles Brinsley Marlay in 1912
 
-##### [![Louis XII healing the sick Initial S from a Gradual France, Paris, c.1500](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_8_4.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_8_4.jpg "Louis XII healing the sick, Initial S from a Gradual, France, Paris, c.1500<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Louis XII healing the sick Initial S from a Gradual France, Paris, c.1500]({{site.baseurl}}/images/explore/colour_8_4.jpeg){: .img-fluid }
 
 ##### Louis XII healing the sick  
 Initial S from a Gradual  
@@ -58,7 +58,7 @@ Louis XII of France (1498-1515) extends his healing touch to people suffering fr
 ##### Cat. 37 - Fitzwilliam Museum, Marlay cutting Fr. 16a  
 Bequeathed by Charles Brinsley Marlay in 1912
 
-![](https://fitzmuseum.cam.ac.uk/sites/default/files/MS%20159%20opening%20for%20galleryresized.jpg)
+![Creation and temptation]({{site.baseurl}}/images/explore/MS%20159%20opening%20for%20galleryresized.jpeg){: .img-fluid }
 
 ##### Creation and Temptation  
 The Primer of Claude of France  

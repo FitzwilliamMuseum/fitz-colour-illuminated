@@ -10,7 +10,7 @@ The affective power of medieval and Renaissance images rested largely in the art
 
 To paint convincing flesh tones, illuminators employed a variety of pigments and techniques. Using the bare parchment (made of animal skin) was the most economical. The most sophisticated method involved the application of complex mixtures in multiple layers to animate figures, suggest character and distinguish the living from the dead.
 
-##### [![Martyrdom of St Stephen Initial S from an Antiphoner Italy, Bologna, c.1300-1320  ARTIST: Nerio (active c.1300-1320)](/sites/default/files/colour_12_1.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_12_1.jpg "Martyrdom of St Stephen, Initial S from an Antiphoner, Italy, Bologna, c.1300-1320<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Martyrdom of St Stephen Initial S from an Antiphoner Italy, Bologna, c.1300-1320  ARTIST: Nerio (active c.1300-1320)]({{site.baseurl}}/images/explore/colour_12_1.jpeg){: .img-fluid }
 
 ##### Martyrdom of St Stephen  
 Initial S from an Antiphoner  
@@ -23,7 +23,7 @@ Involved in the ambitious pictorial programmes of multi-volume Choir books, the 
 ##### Cat. 77 - Fitzwilliam Museum, Marlay cutting It. 80c  
 Bequeathed by Charles Brinsley Marlay in 1912
 
-[![Cardinal-judge conducting a court hearing Leaf from Iohannes Andreae, Novella in Decretales Italy, Bologna, c.1365](/sites/default/files/colour_12_2.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_12_2.jpg "Cardinal-judge conducting a court hearing, Leaf from Iohannes Andreae, Novella in Decretales, Italy, Bologna, c.1365<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Cardinal-judge conducting a court hearing Leaf from Iohannes Andreae, Novella in Decretales Italy, Bologna, c.1365]({{site.baseurl}}/images/explore/colour_12_2.jpeg){: .img-fluid }
 
 ##### Cardinal-judge conducting a court hearing  
 Leaf from Iohannes Andreae, Novella in Decretales  
@@ -37,7 +37,7 @@ The leading 14th-century Bolognese illuminator Nicolò da Bologna created animat
 ##### Cat. 79 - Fitzwilliam Museum, MS 331  
 Purchased by the Friends of the Fitzwilliam Museum in 1932
 
-[![Dormition of the Virgin Initial G from a Gradual Italy, Venice, c.1420](/sites/default/files/colour_12_3.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_12_3.jpg "Dormition of the Virgin, Initial G from a Gradual, Italy, Venice, c.1420<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Dormition of the Virgin Initial G from a Gradual Italy, Venice, c.1420]({{site.baseurl}}/images/explore/colour_12_3.jpeg){: .img-fluid }
 
 ##### Dormition of the Virgin  
 Initial G from a Gradual  
@@ -50,7 +50,7 @@ This initial comes from a Choir book illuminated on the Venetian island of Muran
 ##### Cat. 81 - Fitzwilliam Museum, Marlay cutting It. 18  
 Bequeathed by Charles Brinsley Marlay in 1912
 
-[![The Mass of St Gregory Leaf from the Hours of Charles de Martigny France, Tours, c.1485-1494](/sites/default/files/colour_12_4.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_12_4.jpg "The Mass of St Gregory, Leaf from the Hours of Charles de Martigny, France, Tours, c.1485-1494<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![The Mass of St Gregory Leaf from the Hours of Charles de Martigny France, Tours, c.1485-1494]({{site.baseurl}}/images/explore/colour_12_4.jpeg){: .img-fluid}
 
 ##### The Mass of St Gregory  
 Leaf from the Hours of Charles de Martigny  
@@ -63,7 +63,7 @@ The royal painter and illuminator Jean Bourdichon created an intense devotional 
 ##### Cat. 87 - Fitzwilliam Museum, Marlay cutting Fr. 6  
 Bequeathed by Charles Brinsley Marlay in 1912
 
-[![Crucifixion Miniature from the Hours of Albrecht of Brandenburg Flanders, Bruges, 1522-1523](/sites/default/files/colour_12_5.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_12_5.jpg "Crucifixion, Miniature from the Hours of Albrecht of Brandenburg, Flanders, Bruges, 1522-1523<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Crucifixion Miniature from the Hours of Albrecht of Brandenburg Flanders, Bruges, 1522-1523]({{site.baseurl}}/images/explore/colour_12_5.jpeg){: .img-fluid }
 
 ##### Crucifixion  
 Miniature from the Hours of Albrecht of Brandenburg  

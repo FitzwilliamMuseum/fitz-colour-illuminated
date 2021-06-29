@@ -10,11 +10,10 @@ Colour was part of every discourse and discipline, from natural history and medi
 
 Colour was a marker of difference and distinction. Its monetary and symbolic values reflected social hierarchies and moral norms. Garments of particular shades – whether monastic habits, royal robes, jesters’ costumes or lawyers’ gowns – indicated status, occupation, and religious or political affiliations. Colour influenced how individuals were perceived by others, but also expressed personal beliefs and aspirations. 
 
-[![Crucifixion The Peterborough Psalter England, Peterborough, c.1220-1225](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_14_1.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_14_1.jpg "Crucifixion, The Peterborough Psalter, England, Peterborough, c.1220-1225<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Crucifixion The Peterborough Psalter England, Peterborough, c.1220-1225]({{site.baseurl}}/images/explore/colour_14_1.jpeg){: .img-fluid }
 
-##### Crucifixion  
-The Peterborough Psalter  
-England, Peterborough, c.1220-1225
+Crucifixion; The Peterborough Psalter; England, Peterborough, c.1220-1225
+{: .text-info }
 
 A variety of pigments, including locally sourced organic yellows and imported ultramarine, were used throughout this elegant volume. Green made from verdigris was reserved for one area: the Cross. Green Crosses are found in Crucifixion scenes from the 11th century onwards. Artists used the colour to link the Cross with the Tree of Life in Eden, a symbol of eternal life. According to Christian theology, Christ’s death and resurrection offered redemption and immortality to humanity.
 
@@ -22,7 +21,7 @@ A variety of pigments, including locally sourced organic yellows and imported ul
 Bequeathed by Viscount Fitzwilliam in 1816   
 [www.fitzmuseum.cam.ac.uk/illuminated](http://www.fitzmuseum.cam.ac.uk/illuminated)
 
-[![Pentecost Book of Hours France, Paris, 1410-1412](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_14_2.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_14_2.jpg "Pentecost, Book of Hours, France, Paris, 1410-1412<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Pentecost Book of Hours France, Paris, 1410-1412]({{site.baseurl}}/images/explore/colour_14_2.jpeg){: .img-fluid }
 
 ##### Pentecost  
 Book of Hours  
@@ -35,8 +34,7 @@ According to the Bible, when Christ’s disciples gathered to celebrate Pentecos
 ##### Cat. 114 - Fitzwilliam Museum, MS McClean 80, fol. 117r  
 Bequeathed by Frank McClean in 1904
 
-[![Resurrection Leaf from a Laudario Italy, Florence, c.1330-1340](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_14_3.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_14_3.jpg "Resurrection, Leaf from a Laudario, Italy, Florence, c.1330-1340<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
-
+![Resurrection Leaf from a Laudario Italy, Florence, c.1330-1340]({{site.baseurl}}/images/explore/colour_14_3.jpeg){: .img-fluid .rounded }
 ##### Resurrection  
 Leaf from a Laudario  
 Italy, Florence, c.1330-1340
@@ -48,7 +46,7 @@ This leaf belonged to a songbook commissioned by a Florentine confraternity whos
 ##### Cat. 115 - Fitzwilliam Museum, MS 194  
 Purchased in 1891
 
-[![The Soul assaulted by demons Jean de Castel, Le Specule des pecheurs Northern France, c.1470-1480]https://fitzmuseum.cam.ac.uk/sites/default/files/colour_14_4.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_14_4.jpg "The Soul assaulted by demons, Jean de Castel, Le Specule des pecheurs, Northern France, c.1470-1480<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![The Soul assaulted by demons Jean de Castel, Le Specule des pecheurs Northern France, c.1470-1480]({{site.baseurl}}/images/explore/colour_14_4.jpeg){: .img-fluid }
 
 ##### The Soul assaulted by demons  
 Jean de Castel, _Le Specule des pecheurs_  
@@ -59,7 +57,7 @@ The striking images in this ‘Mirror of Sinners’, a poem on death and damnati
 ##### Cat. 121 - Fitzwilliam Museum, MS 164, fol. 19r  
 Bequeathed by Viscount Fitzwilliam in 1816 
 
-##### [![The Soul holding her heart René of Anjou, Le Mortifiement de vaine plaisance Flanders, Hesdin, c.1470-1475](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_14_5.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_14_5.jpg "The Soul holding her heart,René of Anjou, Le Mortifiement de vaine plaisance,Flanders, Hesdin, c.1470-1475<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![The Soul holding her heart René of Anjou, Le Mortifiement de vaine plaisance Flanders, Hesdin, c.1470-1475]({{site.baseurl}}/images/explore/colour_14_5.jpeg){: .img-fluid }
 
 ##### The Soul holding her heart  
 René of Anjou, Le Mortifiement de vaine plaisance  

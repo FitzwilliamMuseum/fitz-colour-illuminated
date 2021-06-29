@@ -8,7 +8,7 @@ image: "/images/explore/Marlay cutting It. 35_mas.jpg"
 
 Rendering three-dimensional forms on a flat surface is a challenge, but not a priority for all painters. Many medieval artists – like many Modernists – ignored it. Others took it up, focused on the human figure and attempted to convey the body beneath the drapery. Some illuminators tinted dark areas in colour washes, leaving the bare parchment as highlights. Many indicated folds and ridges with black and white lines. During the 13th century, this graphic approach was supplemented by a new painterly technique: gradations of colour created smooth transitions between highlighted and shaded areas. By the 1280s, French and English illuminators had mastered three-dimensional modelling, conjuring up volume and plasticity not seen elsewhere until the frescos painted c.1300 by Cavallini and Giotto in Rome, Assisi and Padua. From the 1320s, some artists employed tiny brush strokes in a pointillist technique anticipating that of the Neo-impressionists in the late 19th century. 
 
-[![St Matthew writing Gospels Bavaria, late eleventh century](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_10_1.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_10_1.jpg "St Matthew writing, Gospels, Bavaria, late eleventh century<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![St Matthew writing Gospels Bavaria, late eleventh century]({{site.baseurl}}/images/explore/colour_10_1.jpeg){: .img-fluid }
 
 ##### St Matthew writing  
 Gospels  
@@ -19,7 +19,7 @@ St Matthew’s image opens his Gospel. He is enveloped in blue and pink fabrics.
 ##### Cat. 56 - Fitzwilliam Museum, MS McClean 20, fol. 20v  
 Bequeathed by Frank McClean in 1904
 
-![](https://fitzmuseum.cam.ac.uk/sites/default/files/ms%20300_fvv-vir_compositeresized.jpg)
+![]({{site.baseurl}}/images/explore/ms%20300_fvv-vir_compositeresized.jpeg){: .img-fluid }
 
 ##### David sending Solomon to be anointed as king and David’s burial  
 The Psalter-Hours of Isabelle of France  
@@ -29,9 +29,9 @@ Devout kingship and rightful succession are among the main themes in this royal 
 
 ##### Cat. 61 - Fitzwilliam Museum, MS 300, fols. V verso – VI recto  
 Purchased in 1919 with support from members of Cambridge University  
-[www.fitzmuseum.cam.ac.uk/illuminated](http://www.fitzmuseum.cam.ac.uk/illuminated)
 
-![The Trinity and Christ with patrons Book of Hours England, c.1315-1320](https://fitzmuseum.cam.ac.uk/sites/default/files/MS242openingforgalleryresized.jpg)
+
+![The Trinity and Christ with patrons Book of Hours England, c.1315-1320]({{site.baseurl}}/images/explore/MS242openingforgalleryresized.jpeg){: .img-fluid }
 
 ##### The Trinity and Christ with patrons  
 Book of Hours  
@@ -41,9 +41,9 @@ Clad in their armorial robes, John de Pabenham (d. 1331) of Bedfordshire and Joa
 
 ##### Cat. 64 - Fitzwilliam Museum, MS 242, fols. 28v-29r  
 Purchased from William Morris in 1895, received in 1896  
-[www.fitzmuseum.cam.ac.uk/illuminated](http://www.fitzmuseum.cam.ac.uk/illuminated)
 
-##### [![Anointing of David The Macclesfield Psalter England, East Anglia, probably Norwich, c.1330-1340](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_10_6.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_10_5.jpg "Anointing of David, The Macclesfield Psalter, England, East Anglia, probably Norwich, c.1330-1340<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+
+![Anointing of David The Macclesfield Psalter England, East Anglia, probably Norwich, c.1330-1340]({{site.baseurl}}/images/explore/colour_10_6.jpeg){: .img-fluid }
 
 ##### Anointing of David  
 The Macclesfield Psalter  
@@ -53,4 +53,5 @@ This manuscript exemplifies the most experimental stage in 14th-century English 
 
 ##### Cat. 65 - Fitzwilliam Museum, MS 1-2005, fol. 39r  
 Purchased in 2005 with support from the National Heritage Memorial Fund, the Art Fund, the Friends of the Fitzwilliam Museum, the Friends of the National Libraries, the Cadbury Trust and members of the public  
-[ILLUMINATED: Manuscripts in the Making](http://www.fitzmuseum.cam.ac.uk/illuminated/manuscript/discover/the-macclesfield-psalter)
+
+[ILLUMINATED: Manuscripts in the Making - the Macclesfield Psalter](http://www.fitzmuseum.cam.ac.uk/illuminated/manuscript/discover/the-macclesfield-psalter)

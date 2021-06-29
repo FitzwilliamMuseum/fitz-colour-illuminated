@@ -9,7 +9,7 @@ image: "/images/explore/Marlay cutting It. 35_mas.jpg"
 
 Manuscripts were illuminated – literally and metaphorically – by gold and silver. The precious metals dazzled the eyes and embodied the most mysterious of God’s creations – light. They were employed in two main forms. The first – shell gold or silver – was powdered metal, mixed with glue, stored in shells and applied like paint. The second – gold or silver leaf – was metal hammered into tissue-thin sheets, laid on the page and often polished to a brilliant shine. Gold surfaces could be enhanced further with incised or drawn patterns. Shell gold was used to paint backgrounds, outline nocturnal landscapes and highlight draperies, hair or flesh. Less frequently used than gold, silver was favoured for the depiction of armour. To reduce costs and achieve diverse effects of light and texture, artists also employed brass, metallic tin and an imitation gold known as ‘mosaic gold.’ 
 
-[![Blessings for Christmas Eve Benedictional East Frankish Kingdom, Augsburg or St Gall, c.925-975](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_9_1.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_9_1.jpg "Blessings for Christmas Eve, Benedictional, East Frankish Kingdom, Augsburg or St Gall, c.925-975<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/&gt")
+![Blessings for Christmas Eve Benedictional East Frankish Kingdom, Augsburg or St Gall, c.925-975](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_9_1.jpg){: .img-fluid}
 
 ##### Blessings for Christmas Eve  
 Benedictional  
@@ -20,7 +20,7 @@ Gleaming with silver and gold, these initials evoke spiritual riches, appropriat
 ##### Cat. 40 - Fitzwilliam Museum, MS 27, fols. 1v-2r  
 Purchased in 1889
 
-[![Christ blessing, Entombment, David and Goliath Psalter and Offices Meuse region, Liège, c.1280-1290](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_9_2.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_9_2.jpg "Christ blessing, Entombment, David and Goliath Psalter and Offices, Meuse region, Liège, c.1280-1290<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Christ blessing, Entombment, David and Goliath Psalter and Offices Meuse region, Liège, c.1280-1290](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_9_2.jpg){: .img-fluid }
 
 ##### Christ blessing, Entombment, David and Goliath  
 Psalter and Offices  
@@ -31,7 +31,7 @@ The woman who commissioned this manuscript belonged to the Béguines, an order o
 ##### Cat. 42 - Fitzwilliam Museum, MS 288, fols. 14v-15r  
 Bequeathed by Rev. E.S. Dewick in 1917
 
-##### [![Entry into Jerusalem Initial D from a Gradual Italy, Venice, c.1410-1420](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_9_3.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_9_3.jpg "Entry into Jerusalem, Initial D from a Gradual, Italy, Venice, c.1410-1420<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Entry into Jerusalem Initial D from a Gradual Italy, Venice, c.1410-1420](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_9_3.jpg){: .img-fluid }
 
 ##### Entry into Jerusalem  
 Initial D from a Gradual  
@@ -44,7 +44,7 @@ The prolific Venetian artist Cristoforo Cortese employed three metals in this im
 ##### Cat. 47 - Fitzwilliam Museum, Marlay cutting It. 20  
 Bequeathed by Charles Brinsley Marlay in 1912
 
-[![Equity and Felony Leaf from Laurent d’Orléans, La Somme le roi France, Paris, c.1290-1295](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_9_4.jpg)](http://webapps.fitzmuseum.cam.ac.uk/extras/colour/colour_9_4.jpg "Equity and Felony, Leaf from Laurent d’Orléans, La Somme le roi, France, Paris, c.1290-1295<br/><br/>&copy; The Fitzwilliam Museum<br/>Use of this image is restricted by our <a href="http://www.fitzmuseum.cam.ac.uk/aboutus/imagelibrary/termsandcondition">Terms and Conditions</a><br/><br/>")
+![Equity and Felony Leaf from Laurent d’Orléans, La Somme le roi France, Paris, c.1290-1295](https://fitzmuseum.cam.ac.uk/sites/default/files/colour_9_4.jpg){: .img-fluid }
 
 ##### Equity and Felony  
 Leaf from Laurent d’Orléans, La Somme le roi  
