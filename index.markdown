@@ -3,73 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: 'Being an Islander'
+title: 'COLOUR: The Art and Science of Illuminated Manuscripts'
 ---
+This online exhibition presents a selection of the manuscripts displayed in the Fitzwilliam Museum’s bicentenary exhibition COLOUR: The Art and Science of Illuminated Manuscripts (30 July – 30 December 2016). An exhibition of medieval and Renaissance manuscripts is a fitting celebration of the Museum’s bicentenary. The Fitzwilliam preserves the finest and largest museum collection of illuminated manuscripts in existence, and manuscripts were at the heart of the Founder’s collection with which the Museum was established in 1816. Among the treasures which Richard, 7th Viscount Fitzwilliam of Merrion (1745-1816), bequeathed to the University of Cambridge were 130 illuminated manuscripts.
 
-<div class="section pp-scrollable" id="holding">
-  <div class="intro col-md-12 my-5">
-    <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="300" alt="Fitzwilliam Museum logo" class="img-fluid"/></a>
-     <h1 class="display-1">
-      {{page.title}}
-    </h1>
+In his 1895 catalogue of the Founder’s collection, the Fitzwilliam Director Montague Rhodes James appealed to potential benefactors to think of the Museum as a place where their ‘manuscripts would be choicely valued, religiously preserved, and minutely investigated.’ Among the bequests and donations which flowed into the Museum over the next two decades was one of the largest and finest private collections of medieval manuscripts. In 1904, the astronomer and inventor Frank McClean bequeathed over 200 volumes and some 130 illuminated fragments. The 1912 bequest of Charles Brinsley Marlay’s eclectic collection included one of the largest groups of illuminated fragments ever amassed – well over 250. These bequests quadrupled and diversified the Museum’s holdings.
 
-    <p class="display-1 mb-3">
-      Art and Identity of the large Mediterranean Islands
-    </p>
+The collection grew further under James’ successor, Sydney Cockerell, the longest serving and most acquisitive Fitzwilliam Director (1908-1937) to date. His vision, scholarship and passion for manuscripts have inspired more recent acquisitions, notably the Macclesfield Psalter, purchased in 2005 with overwhelming public support. This exhibition marks the Museum’s gratitude to all those whose generosity has created one of the world’s finest collections of illuminated manuscripts over the last 200 years.
 
-    <div class="col-md-12">
-      <button id="button" class="btn btn-outline-dark" >
-        <i class="fas fa-volume-up"></i>
-      </button>
-    </div>
+COLOUR also celebrates the world-class expertise of the Museum’s curators, conservators and scientists. Two Fitzwilliam projects underpin COLOUR’s research platform: the Cambridge Illuminations and MINIARE. The exhibition showcases their cross-disciplinary research and collaborations with experts in Cambridge, across the UK, and overseas.
 
-</div>
-  <div id="player">
-      <audio autoplay hidden loop controls>
-       <source src="{{ site.baseurl }}/mp3/out.mp3" type="audio/mp4">
-          If you're reading this, audio isn't supported.
-      </audio>
-  </div>
+Some of the manuscripts, with further information on their artists, patrons, painting materials and techniques, can be explored on the Fitzwilliam Museum’s digital research and teaching resource, ILLUMINATED: manuscripts in the making.
 
-</div>
-
-<div class="section pp-scrollable" id="sponsors">
-
-  <div class="container justify-content-center my-5">
-  <h1 class="text-dark display-3">In collaboration with</h1>
-    <div class="row justify-content-center mb-2">
-      <div class="col-md-4">
-        <img src="https://content.fitz.ms/fitz-website/assets/AGLF%20LOGO%20CMYK_ENG%20high%20definition.jpg?key=directus-medium-contain" alt="The Leventis Foundation Logo" class="mb-2 mr-2" height="200"/>
-      </div>
-      <div class="col-md-4">
-        <img src="https://content.fitz.ms/fitz-website/assets/SNF%20primary%20logo_short_hi.jpg?key=directus-medium-contain" alt="Stavros Niarchos logo" class="mr-2 mb-2" height="200"/>
-      </div>
-      <div class="col-md-4">
-        <img src="{{ site.baseurl }}/images/cyprus.png" alt="The Cypriot Embassy logo" class="mr-2 mb-2" height="200"/>
-        </div>
-     </div>
-    <div class="row justify-content-center mb-2">
-      <div class="col-md-4">
-        <img src="https://content.fitz.ms/fitz-website/assets/cyprusInst.png?key=directus-medium-contain" alt="Cyprus Institute logo" class="mr-2 mb-2" height="200"/>
-      </div>
-      <div class="col-md-4">
-        <img src="https://content.fitz.ms/fitz-website/assets/mcd.png?key=directus-medium-contain" alt="McDonald logo" class=" mr-2 mb-2" height="200"/>
-      </div>
-      <div class="col-md-4">
-        <img src="https://content.fitz.ms/fitz-website/assets/ipsfXwD4.jpeg?key=directus-medium-contain" alt="hellenic logo" class="mr-2 mb-2" height="200" />
-      </div>
-    </div>
-    <div class="row justify-content-center mb-2">
-    <div class="col-md-4">
-      <img src="https://content.fitz.ms/fitz-website/assets/calgiari.png?key=directus-medium-contain" alt="Museo Archeologico Nazionale di Cagliari" class=" mr-2 ml-2 mb-2" />
-    </div>
-    <div class="col-md-4">
-      <img src="https://content.fitz.ms/fitz-website/assets/6612da61425d98755836902a8bde1bce_L.jpg?key=directus-medium-contain" alt="Department of Antiquities, Cyprus" class="mr-2 ml-2 mb-2" />
-    </div>
-    </div>
-  <div class="col justify-content-center mb-2">
-    <div class="col-md-12 d-flex justify-content-center">
-      <a class="btn btn-outline-dark" href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
-    </div>
-  </div>
-</div>
+More extensive discussions of the fourteen exhibition themes and all manuscripts can be found in the exhibition catalogue. The number of the catalogue entry for each manuscript is indicated below (‘Cat. 1’, ‘Cat. 3’ and so on). The exhibition catalogue is available from the Fitzwilliam Museum’s shop and can also be ordered online.

@@ -1,5 +1,5 @@
 ---
-layout: gold
+layout: default
 title: Creative Economy Engagement Fellowships funding awarded
 author: Daniel Pett
 category: news

@@ -45,7 +45,7 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
 <link rel="icon" href="https://beta.fitz.ms/favicon.ico"/>
 <style>
 .head {
-  background-image: url({{site.background}});
+  background-image: url({{site.baseurl}}{{site.background}});
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 90%;
@@ -92,13 +92,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <h1 class="shout lead" id="doc-main-h1">{{page.title}}</h1>
       </div>
     </div>
+    {% include /structure/archived.html %}
 
     {% include /structure/breadcrumbs.html %}
 
     <div class="container">
+      {% if page.url == "/explore/" %}
+        {{ content }}
+      {% elsif page.url == "/objects/" %}
+        {{ content }}
+      {% else %}
       <div class="col-12 shadow-sm p-3 mx-auto mb-3 mt-3 ">
         {{ content }}
       </div>
+      {% endif %}
     </div>
     <!-- Footer logos -->
     <div class="container-fluid bg-white p-2 container-fluid bg-white border-cambridge">
