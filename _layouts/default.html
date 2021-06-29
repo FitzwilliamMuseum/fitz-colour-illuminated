@@ -1,0 +1,273 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+
+  <meta name="description" content="How to visit the Fitzwilliam Museum in Cambridge" />
+  {% if page.title != blank %}
+  <title>{{ page.title }}</title>
+  {% else %}
+  <title>{{ site.site_title }}</title>
+  {% endif %}
+  {% seo %}
+
+  <!-- DNS prefetches -->
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//fonts.gstatic.com">
+  <link rel="dns-prefetch" href="//www.google-analytics.com">
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//s3.amazonaws.com">
+  <link rel="dns-prefetch" href="//use.fontawesome.com">
+  <!--
+  d888888P dP                  88888888b oo   dP                       oo dP dP oo                        8888ba.88ba
+  88    88                    88             88                          88 88                           88  `8b  `8b
+  88    88d888b. .d8888b.    a88aaaa    dP d8888P d888888b dP  dP  dP dP 88 88 dP .d8888b. 88d8b.d8b.    88   88   88 dP    dP .d8888b. .d8888b. dP    dP 88d8b.d8b.
+  88    88'  `88 88ooood8     88        88   88      .d8P' 88  88  88 88 88 88 88 88'  `88 88'`88'`88    88   88   88 88    88 Y8ooooo. 88ooood8 88    88 88'`88'`88
+  88    88    88 88.  ...     88        88   88    .Y8P    88.88b.88' 88 88 88 88 88.  .88 88  88  88    88   88   88 88.  .88       88 88.  ... 88.  .88 88  88  88
+  dP    dP    dP `88888P'     dP        dP   dP   d888888P 8888P Y8P  dP dP dP dP `88888P8 dP  dP  dP    dP   dP   dP `88888P' `88888P' `88888P' `88888P' dP  dP  dP
+-->
+
+
+<!-- CSS -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Rubik&Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<link href="https://beta.fitz.ms/css/site.css" rel="stylesheet" media="screen">
+
+<link rel="icon" href="https://beta.fitz.ms/favicon.ico"/>
+<style>
+.head {
+  background-image: url({{site.background}});
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 90%;
+}
+.parallax {
+  min-height: 75vh!important;
+}
+</style>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" type="text/css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer = [[]];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer',{{site.gtag_id}});</script>
+
+</head>
+<body class="doc-body">
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G{{site.gtag_id}}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <!-- Screen reader skip to main -->
+    <a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
+      <div class="container">
+        <span class="doc-skip-text">Skip to main content</span>
+      </div>
+    </a>
+
+    <!-- Nav bars -->
+    {% include /structure/navigation.html %}
+
+    <div class="container-fluid head parallax">
+    </div>
+    <div class="container-fluid bg-white text-black text-center">
+      <div class="py-2">
+        <h1 class="shout lead" id="doc-main-h1">{{page.title}}</h1>
+      </div>
+    </div>
+
+    {% include /structure/breadcrumbs.html %}
+
+    <div class="container">
+      <div class="col-12 shadow-sm p-3 mx-auto mb-3 mt-3 ">
+        {{ content }}
+      </div>
+    </div>
+    <!-- Footer logos -->
+    <div class="container-fluid bg-white p-2 container-fluid bg-white border-cambridge">
+      <div class="col-md-12 mx-auto">
+        <div class="row justify-content-center mb-4">
+          <div class="col-md-2 col-sm-2">
+            <a href="https://www.museums.cam.ac.uk"><img class="img-fluid mx-auto " loading="lazy" alt="University of Cambridge Museums logo" src="{{site.baseurl}}/images/logos/ucm_logo_black_white.png" /></a>
+          </div>
+          <div class="col-md-2 col-sm-2">
+            <a href="https://www.artscouncil.org.uk/"><img class="img-fluid mx-auto d-block" alt="Arts Council England Logo" src="{{site.baseurl}}/images/logos/artscouncil_grant.png" loading="lazy"  /></a>
+          </div>
+          <div class="col-md-2 col-sm-2">
+            <a href="https://re.ukri.org/"><img class="img-fluid mx-auto d-block" alt="Research England logo" loading="lazy" src="{{site.baseurl}}/images/logos/UKRI_RE-Logo_Horiz-RGB.png" /></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Sponsor -->
+    <div class="container-fluid bg-white p-2 container-fluid bg-white border-cambridge">
+      <div class="col-md-12 mx-auto">
+        <div class="row justify-content-center mb-4">
+          <div class="col-md-2 col-sm-2">
+            <a href="https://www.ttpgroup.com/"><img class="img-fluid mx-auto mb-4" loading="lazy" alt="The Technology Partnership logo" src="{{site.baseurl}}/images/logos/ttpgroup.jpg" /></a>
+          </div>
+          <div class="col-md-2 col-sm-2">
+            <a href="https://www.brewin.co.uk/"><img class="img-fluid mx-auto d-block mb-4" alt="Brewin Dolphin Logo" src="{{site.baseurl}}/images/logos/brewindolphin.jpg" loading="lazy"  /></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--- Footer stuff -->
+    <footer class="text-black">
+      <div class="container">
+        <div class="row pt-2">
+          <div class="col-md-3 offset-md-2 mt-2 mb-2 mr-2">
+            <h4 class="sr-only">Contact us</h4>
+            <p class="small-font">
+              The Fitzwilliam Museum,<br/>
+              Trumpington Street,<br/>
+              Cambridge<br/>
+              CB2 1RB<br/>
+              Tel: +44 (0)1223 332900<br />
+              What3Words: <span class="w3w"><a
+                href="https://map.what3words.com/lofts.puzzle.given"
+                aria-label="What3Words location phrase">lofts.puzzle.given</a></span>
+              </p>
+            </div>
+            <div class="col-md-3 mt-2 mb-2">
+              <h4 class="sr-only">Useful links</h4>
+
+              <ul class="share">
+                <li>
+                  <a href="https://www.museums.cam.ac.uk/"
+                  aria-label="The University of Cambridge museums site">University
+                  of Cambridge Museums</a>
+                </li>
+                <li>
+                  <a href="https://beta.fitz.ms/about-us/terms-of-use-of-our-website" aria-label="Website terms and conditions">Website Terms of Use</a>
+                </li>
+                <li>
+                  <a href="https://beta.fitz.ms/about-us/privacy-and-cookies">Cookies, privacy & accessibility</a>
+                </li>
+                <li>
+                  <a aria-label="Contact the museum" href="https://beta.fitz.ms/about-us/contact-us">Contact us</a>
+                </li>
+
+                <li>
+                  <a href="https://www.registrarysoffice.admin.cam.ac.uk/governance-and-strategy/anti-slavery-and-anti-trafficking"
+                  aria-label="Modern Slavery Act statement of compliance">Modern Slavery Act Statement</a>
+                </li>
+                <li>
+                  <a href="https://museums.cam.ac.uk/termsandconditionsofsale" aria-label="Terms of sale for tickets">Terms of Sale</a>
+                </li>
+
+              </ul>
+            </div>
+            <div class="col-md-3 mt-2 mb-2">
+              <h4 class="sr-only">About the University</h4>
+              <ul class="share">
+                <li><a href="https://cam.ac.uk/about-the-university/how-the-university-and-colleges-work" aria-label="How Collegiate Cambridge works">The University and Colleges</a></li>
+                <li><a href="https://cam.ac.uk/about-the-university/visiting-the-university" aria-label="How to visit the university">Visiting the University</a></li>
+                <li><a href="https://www.philanthropy.cam.ac.uk/give-now" aria-label="How to support the University" >Give to Cambridge</a></li>
+              </ul>
+              <h4 class="sr-only">License</h4>
+              <ul class="share">
+                <li>Content: CC-BY</li>
+                <li>Metadata: CC0</li>
+                <li>Images: CC-BY-NC-ND</li>
+                <li>Code: GPL-V3</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row pt-2">
+            <div class="col-md-6  mx-auto">
+              <h4 class="sr-only">Join our conversations</h4>
+              <p class="share text-center">
+                <a aria-label="Fitzwilliam Museum twitter account" href="https://twitter.com/FitzMuseum_UK"><i class="fab fa-twitter  p-2"></i></a>
+                <a aria-label="Fitzwilliam Museum instagram account" href="https://www.instagram.com/fitzmuseum_uk"><i class="fab fa-instagram   p-2"></i></a>
+                <a aria-label="Fitzwilliam Museum facebook account" href="https://www.facebook.com/fitzwilliammuseum/"><i class="fab fa-facebook  p-2"></i></a>
+                <a aria-label="Fitzwilliam Museum github account" href="https://www.github.com/fitzwilliammuseum/beta.fitz.ms"><i
+                  class="fab fa-github  p-2"></i></a>
+
+                  <a aria-label="Watch our YouTube videos" href="https://www.youtube.com/channel/UCFwhw5uPJWb4wVEU3Y2nScg"><i
+                    class="fab fa-youtube  p-2"></i></a>
+                    <span ><a aria-label="Fitzwilliam Museum github account" href="https://www.sketchfab.com/fitzwilliammuseum/">
+                      <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="17" height="17"
+                      viewBox="0 0 50 58" style="fill:#000;">
+                      <path d="M25,2C12.317,2,2,12.317,2,25s10.317,23,23,23s23-10.317,23-23S37.683,2,25,2z
+                      M24,38.805l-10-6.25V20.664l10,6.458V38.805z M14.367,18.484L25,11.819l10.633,6.665L25,25.149L14.367,
+                      18.484z M36,32.555l-10,6.25V27.122l10-6.458V32.555z">
+                    </path>
+                  </svg>
+                </a></span>
+                <a aria-label="Fitzwilliam Museum news feed" href="https://beta.fitz.ms/news/feed"><i class="fas fa-rss ml-1"></i></a>
+              </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 mb-2 mx-auto">
+              <p class="text-center">
+                <a href="https://cam.ac.uk"><img src="{{site.baseurl}}/images/logos/cambridge_university2.svg" alt="The University of Cambridge logo" width="200" class="img-fluid mx-auto mb-3" /></a>
+                <br/>
+                &copy; 2021 The University of Cambridge</p>
+              </div>
+            </div>
+          </div>
+          <a href="#0" class="cd-top js-cd-top">Top</a>
+        </footer>
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalCenterTitle">The Museum&#039;s founder&#039;s building</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <img src="https://content.fitz.ms/fitz-website/assets/wonder.jpg?key=banner" class="img-fluid" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- JavaScript -->
+        <!-- JS, Popper.js, and jQuery -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script><!-- Back to top script -->
+        <script src="{{site.baseurl}}/js/backtotop.js"></script>
+
+
+        <!-- Cookie management -->
+        <script defer type="text/javascript" src="{{site.baseurl}}/js/config.js"></script>
+        <script defer type="text/javascript" src="{{site.baseurl}}/js/klaro.js"></script>
+        <!-- End of body -->
+
+
+        <script>
+        $(function () {
+          $('[data-toggle="popover"]').popover()
+        })
+        $('.popover-dismiss').popover({
+          trigger: 'focus'
+        })
+      </script>
+
+  </body>
+  </html>
