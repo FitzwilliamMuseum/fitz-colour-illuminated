@@ -10,7 +10,7 @@ Colour was part of every discourse and discipline, from natural history and medi
 
 Colour was a marker of difference and distinction. Its monetary and symbolic values reflected social hierarchies and moral norms. Garments of particular shades – whether monastic habits, royal robes, jesters’ costumes or lawyers’ gowns – indicated status, occupation, and religious or political affiliations. Colour influenced how individuals were perceived by others, but also expressed personal beliefs and aspirations. 
 
-![Crucifixion The Peterborough Psalter England, Peterborough, c.1220-1225]({{site.baseurl}}/images/explore/colour_14_1.jpeg){: .img-fluid }
+![Crucifixion The Peterborough Psalter England, Peterborough, c.1220-1225]({{site.baseurl}}/images/explore/colour_14_1.jpg){: .img-fluid }
 
 Crucifixion; The Peterborough Psalter; England, Peterborough, c.1220-1225
 {: .text-info }
@@ -21,7 +21,7 @@ A variety of pigments, including locally sourced organic yellows and imported ul
 Bequeathed by Viscount Fitzwilliam in 1816   
 [www.fitzmuseum.cam.ac.uk/illuminated](http://www.fitzmuseum.cam.ac.uk/illuminated)
 
-![Pentecost Book of Hours France, Paris, 1410-1412]({{site.baseurl}}/images/explore/colour_14_2.jpeg){: .img-fluid }
+![Pentecost Book of Hours France, Paris, 1410-1412]({{site.baseurl}}/images/explore/colour_14_2.jpg){: .img-fluid }
 
 ##### Pentecost  
 Book of Hours  
@@ -34,7 +34,7 @@ According to the Bible, when Christ’s disciples gathered to celebrate Pentecos
 ##### Cat. 114 - Fitzwilliam Museum, MS McClean 80, fol. 117r  
 Bequeathed by Frank McClean in 1904
 
-![Resurrection Leaf from a Laudario Italy, Florence, c.1330-1340]({{site.baseurl}}/images/explore/colour_14_3.jpeg){: .img-fluid .rounded }
+![Resurrection Leaf from a Laudario Italy, Florence, c.1330-1340]({{site.baseurl}}/images/explore/colour_14_3.jpg){: .img-fluid .rounded }
 ##### Resurrection  
 Leaf from a Laudario  
 Italy, Florence, c.1330-1340
@@ -46,7 +46,7 @@ This leaf belonged to a songbook commissioned by a Florentine confraternity whos
 ##### Cat. 115 - Fitzwilliam Museum, MS 194  
 Purchased in 1891
 
-![The Soul assaulted by demons Jean de Castel, Le Specule des pecheurs Northern France, c.1470-1480]({{site.baseurl}}/images/explore/colour_14_4.jpeg){: .img-fluid }
+![The Soul assaulted by demons Jean de Castel, Le Specule des pecheurs Northern France, c.1470-1480]({{site.baseurl}}/images/explore/colour_14_4.jpg){: .img-fluid }
 
 ##### The Soul assaulted by demons  
 Jean de Castel, _Le Specule des pecheurs_  
@@ -57,7 +57,7 @@ The striking images in this ‘Mirror of Sinners’, a poem on death and damnati
 ##### Cat. 121 - Fitzwilliam Museum, MS 164, fol. 19r  
 Bequeathed by Viscount Fitzwilliam in 1816 
 
-![The Soul holding her heart René of Anjou, Le Mortifiement de vaine plaisance Flanders, Hesdin, c.1470-1475]({{site.baseurl}}/images/explore/colour_14_5.jpeg){: .img-fluid }
+![The Soul holding her heart René of Anjou, Le Mortifiement de vaine plaisance Flanders, Hesdin, c.1470-1475]({{site.baseurl}}/images/explore/colour_14_5.jpg){: .img-fluid }
 
 ##### The Soul holding her heart  
 René of Anjou, Le Mortifiement de vaine plaisance  

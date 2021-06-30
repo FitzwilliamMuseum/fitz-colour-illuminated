@@ -2,7 +2,7 @@
 title: "The Illuminators' Palette"
 layout: default
 permalink: /explore/illuminators-palette
-image: "/images/explore/collection/colour_2_5.jpeg"
+image: "/images/explore/collection/colour_2_5.jpg"
 order: 2
 ---
 
@@ -12,7 +12,7 @@ Modern perceptions of colour are dominated by hue, but medieval and Renaissance 
 
 Medieval and Renaissance viewers admired both the precious colourants and the craftsmanship that ensured their long-lasting beauty. Exotic rarity, long-distance trade, complex production and colour fastness increased the monetary and symbolic value of pigments. But the skill of the artists who applied them was equally important. 
 
-![MS McClean 30, fols. 2v-3r]({{site.baseurl}}/images/explore/colour_2_1.jpeg){: .img-fluid .rounded }
+![MS McClean 30, fols. 2v-3r]({{site.baseurl}}/images/explore/colour_2_1.jpg){: .img-fluid .rounded }
 
 Christmas service in gold, silver and purple; Epistle Lectionary; West Frankish Kingdom, Reichenau, c.960-980 Artist: Eburnant (active in the late 10th century)
 {: .text-info }
@@ -23,7 +23,7 @@ Cat. 3 - Fitzwilliam Museum, MS McClean 30, fols. 2v-3r{: .display-5 .text-succe
 Bequeathed by Frank McClean in 1904  
 [ILLUMINATED: Manuscripts in the Making](http://www.fitzmuseum.cam.ac.uk/illuminated/manuscript/discover/the-reichenau-epistolary)
 
-![St Mark sharpening his pen, Gospels Germany, Cologne, c.1160-1170]({{site.baseurl}}/images/explore/colour_2_3.jpeg){: .img-fluid .rounded }
+![St Mark sharpening his pen, Gospels Germany, Cologne, c.1160-1170]({{site.baseurl}}/images/explore/colour_2_3.jpg){: .img-fluid .rounded }
 
 St Mark sharpening his pen  
 Gospels  
@@ -36,7 +36,7 @@ Cat. 4 - Fitzwilliam Museum, MS McClean 21, fols. 64v-65r
 {: .display-5 .text-success }
 Bequeathed by Frank McClean in 1904
 
-![Anointing of a bishop, The Pontifical of Renaud de Bar, France, Metz or Verdun, 1303-1316]({{site.baseurl}}/images/explore/colour_2_3a.jpeg){: .img-fluid .rounded }
+![Anointing of a bishop, The Pontifical of Renaud de Bar, France, Metz or Verdun, 1303-1316]({{site.baseurl}}/images/explore/colour_2_3a.jpg){: .img-fluid .rounded }
 
 Anointing of a bishop; The Pontifical of Renaud de Bar; France, Metz or Verdun, 1303-1316; Artist: Master of the Cambridge Pontifical of Renaud de Bar
 {: .text-info }
@@ -50,7 +50,7 @@ Cat. 6b - Fitzwilliam Museum, MS 298, fol. 123r
 Given by Henry Yates Thompson in 1918  
 
 
-![Crucifixion, Missal Italy, Siena, c.1446-1450]({{site.baseurl}}/images/explore/colour_2_4.jpeg){: .img-fluid .rounded }
+![Crucifixion, Missal Italy, Siena, c.1446-1450]({{site.baseurl}}/images/explore/colour_2_4.jpg){: .img-fluid .rounded }
 
 Crucifixion; Missal; Italy, Siena, c.1446-1450; Artist: Sano di Pietro (1405-1481) 
 {: .text-info }
@@ -61,7 +61,7 @@ Cat. 7 - Fitzwilliam Museum, MS 6-1954, fol. 160v
 {: .display-5 .text-success }
 Bequeathed by Viscount Lee of Fareham in 1947, received in 1954
 
-![Adoration of the Magi, Initial O from an Antiphoner  Italy, Venice, c.1567-1572]({{site.baseurl}}/images/explore/colour_2_5.jpeg){: .img-fluid .rounded }
+![Adoration of the Magi, Initial O from an Antiphoner  Italy, Venice, c.1567-1572]({{site.baseurl}}/images/explore/colour_2_5.jpg){: .img-fluid .rounded }
 
 Adoration of the Magi; Initial O from an Antiphoner; Italy, Venice, c.1567-1572 ; Scribe: Venturino Veneziano (documented 1566-1572); Artist: Giovan Battista da Udine (documented 1567-1576)
 {: .text-info }

@@ -10,7 +10,7 @@ By combining art-historical and scientific analyses of illuminations, we can tra
 
 Scientific analyses also discredit long-held misconceptions, including the myths that illuminators used pigments in their pure form, and that they bound them in gum (resin) or glair (beaten egg white), but not in egg yolk, which was reserved for panel paintings. In fact, illuminators employed increasingly complex mixtures of pigments from the 11th century onwards, and used egg yolk selectively alongside gum and glair. There was no rigid distinction between panel painting and manuscript illumination, since many artists worked in both media. 
 
-![Christ with Apostles and Entry into Jerusalem]({{site.baseurl}}/images/explore/ms%2036-1950_49-50_201407_mfj22_masresized.jpeg){: .img-fluid .rounded }
+![Christ with Apostles and Entry into Jerusalem]({{site.baseurl}}/images/explore/ms%2036-1950_49-50_201407_mfj22_masresized.jpg){: .img-fluid .rounded }
 
 Christ with Apostles and Entry into Jerusalem  Psalter  Silesia, Breslau (now Wrocław, Poland), c.1255-1267
 {: .text-info }
@@ -20,7 +20,7 @@ Commissioned by a Duchess of Breslau, this Psalter was produced by Silesian scri
 ##### Cat. 26 - Fitzwilliam Museum, MS 36-1950, fols. 49v-50r  
 Bequeathed by Thomas H. Riches in 1935, received in 1950
 
-![Pentecost with patron’s portrait and arms Missal Italy, Florence, 1402-1405]({{site.baseurl}}/images/explore/colour_7_3.jpeg){: .img-fluid .rounded }
+![Pentecost with patron’s portrait and arms Missal Italy, Florence, 1402-1405]({{site.baseurl}}/images/explore/colour_7_3.jpg){: .img-fluid .rounded }
 
 Pentecost with patron’s portrait and arms  Missal  Italy, Florence, 1402-1405
 {: .text-info }
@@ -30,7 +30,7 @@ This Missal preserves the portrait and arms of its patron, Angelo Acciaiuoli (13
 **Cat. 28 - Fitzwilliam Museum, MS 30, fol. 148r**
 Bequeathed by Viscount Fitzwilliam in 1816  
 
-![Virgin and Child, The Hours of Isabella Stuart, France, Angers, c.1431]({{site.baseurl}}/images/explore/colour_7_4.jpeg){: .img-fluid .rounded }
+![Virgin and Child, The Hours of Isabella Stuart, France, Angers, c.1431]({{site.baseurl}}/images/explore/colour_7_4.jpg){: .img-fluid .rounded }
 
 Virgin and Child; The Hours of Isabella Stuart; France, Angers, c.1431{: .text-info }
 

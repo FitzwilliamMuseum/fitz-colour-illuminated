@@ -47,6 +47,8 @@ collections:
       output: true
    about:
       output: true
+   rebinding:
+      output: true
 
 timezone: Europe/London
 permalink: pretty

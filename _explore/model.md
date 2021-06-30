@@ -3,12 +3,12 @@ title: Modelling in Manuscript Painting
 layout: default
 order: 10
 permalink: "/explore/modelling-in-manuscript-painting"
-image: "/images/explore/Marlay cutting It. 35_mas.jpg"
+image: "/images/explore/collection/ms_300.jpg"
 ---
 
 Rendering three-dimensional forms on a flat surface is a challenge, but not a priority for all painters. Many medieval artists – like many Modernists – ignored it. Others took it up, focused on the human figure and attempted to convey the body beneath the drapery. Some illuminators tinted dark areas in colour washes, leaving the bare parchment as highlights. Many indicated folds and ridges with black and white lines. During the 13th century, this graphic approach was supplemented by a new painterly technique: gradations of colour created smooth transitions between highlighted and shaded areas. By the 1280s, French and English illuminators had mastered three-dimensional modelling, conjuring up volume and plasticity not seen elsewhere until the frescos painted c.1300 by Cavallini and Giotto in Rome, Assisi and Padua. From the 1320s, some artists employed tiny brush strokes in a pointillist technique anticipating that of the Neo-impressionists in the late 19th century. 
 
-![St Matthew writing Gospels Bavaria, late eleventh century]({{site.baseurl}}/images/explore/colour_10_1.jpeg){: .img-fluid }
+![St Matthew writing Gospels Bavaria, late eleventh century]({{site.baseurl}}/images/explore/colour_10_1.jpg){: .img-fluid }
 
 ##### St Matthew writing  
 Gospels  
@@ -19,7 +19,7 @@ St Matthew’s image opens his Gospel. He is enveloped in blue and pink fabrics.
 ##### Cat. 56 - Fitzwilliam Museum, MS McClean 20, fol. 20v  
 Bequeathed by Frank McClean in 1904
 
-![]({{site.baseurl}}/images/explore/ms%20300_fvv-vir_compositeresized.jpeg){: .img-fluid }
+![]({{site.baseurl}}/images/explore/ms%20300_fvv-vir_compositeresized.jpg){: .img-fluid }
 
 ##### David sending Solomon to be anointed as king and David’s burial  
 The Psalter-Hours of Isabelle of France  
@@ -31,7 +31,7 @@ Devout kingship and rightful succession are among the main themes in this royal 
 Purchased in 1919 with support from members of Cambridge University  
 
 
-![The Trinity and Christ with patrons Book of Hours England, c.1315-1320]({{site.baseurl}}/images/explore/MS242openingforgalleryresized.jpeg){: .img-fluid }
+![The Trinity and Christ with patrons Book of Hours England, c.1315-1320]({{site.baseurl}}/images/explore/MS242openingforgalleryresized.jpg){: .img-fluid }
 
 ##### The Trinity and Christ with patrons  
 Book of Hours  
@@ -43,7 +43,7 @@ Clad in their armorial robes, John de Pabenham (d. 1331) of Bedfordshire and Joa
 Purchased from William Morris in 1895, received in 1896  
 
 
-![Anointing of David The Macclesfield Psalter England, East Anglia, probably Norwich, c.1330-1340]({{site.baseurl}}/images/explore/colour_10_6.jpeg){: .img-fluid }
+![Anointing of David The Macclesfield Psalter England, East Anglia, probably Norwich, c.1330-1340]({{site.baseurl}}/images/explore/colour_10_6.jpg){: .img-fluid }
 
 ##### Anointing of David  
 The Macclesfield Psalter  

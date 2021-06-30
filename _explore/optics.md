@@ -10,7 +10,7 @@ Medieval optics, or Perspectiva, emerged in the 13th century from earlier theori
 
 These advances coincided with developments in painting, best observed in illuminated manuscripts. By c.1300, illuminators were creating three-dimensional images with a sense of spatial depth. A century later, they were simulating atmospheric effects and optical illusions, including mirror reflections and the fleeting colours of peacock feathers.
 
-![Dedication of the Temple of Solomon Miniature from the Egmond Breviary Northern Netherlands, Utrecht, c.1435-1440]({{site.baseurl}}/images/explore/colour_13_1.jpeg)]{: .img-fluid .rounded}
+![Dedication of the Temple of Solomon Miniature from the Egmond Breviary Northern Netherlands, Utrecht, c.1435-1440]({{site.baseurl}}/images/explore/colour_13_1.jpg){: .img-fluid .rounded}
 
 Dedication of the Temple of Solomon  Miniature from the Egmond Breviary  
 Northern Netherlands, Utrecht, c.1435-1440  
@@ -22,10 +22,9 @@ This image belonged to a manuscript made in Utrecht for a member of the ruling f
 **Cat. 90 - Fitzwilliam Museum, MS 1-1960**
 Given by Francis Wormald in 1960 
 
-![King David Initial B from an Antiphoner Italy, Bologna or Rome, c.1490-1500]({{site.baseurl}}/images/explore/colour_13_2.jpeg){: .img-fluid .rounded}
+![King David Initial B from an Antiphoner Italy, Bologna or Rome, c.1490-1500]({{site.baseurl}}/images/explore/colour_13_2.jpg){: .img-fluid .rounded}
 
-King David, Initial B from an Antiphoner  
-Italy, Bologna or Rome, c.1490-1500
+**King David, Initial B from an Antiphoner** Italy, Bologna or Rome, c.1490-1500
 {: .text-info }
 
 A penitent David kneels in a palatial courtyard. An extraordinarily varied palette is employed to simulate surfaces and textures, from the marble columns to the bejewelled robes, and to conjure up spatial depth. The path behind the fence and the loggia leads the eye across the river, past the gondola, to the city, through the archway, onto the hills and up to the castle. From there a magnificent vista opens over valleys and mountains stretching to the horizon. The sophisticated use of colour, consistent light source, linear and aerial perspective creates a coherent and expansive pictorial space.
@@ -33,7 +32,7 @@ A penitent David kneels in a palatial courtyard. An extraordinarily varied palet
 **Cat. 97 - Fitzwilliam Museum, Marlay cutting It. 25**
 Bequeathed by Charles Brinsley Marlay in 1912
 
-![Betrayal and Arrest of Christ Leaf from the Hours of Charles de Martigny France, Tours, c.1485-1494]({{site.baseurl}}/images/explore/colour_13_3.jpeg)
+![Betrayal and Arrest of Christ Leaf from the Hours of Charles de Martigny France, Tours, c.1485-1494]({{site.baseurl}}/images/explore/colour_13_3.jpg)
 {: .img-fluid .rounded}
 
 Betrayal and Arrest of Christ, Leaf from the Hours of Charles de Martigny  
@@ -47,7 +46,7 @@ This leaf belonged to a Book of Hours illuminated for Bishop Charles de Martigny
 **Cat. 102 - Fitzwilliam Museum, Marlay cutting Fr. 4**
 Bequeathed by Charles Brinsley Marlay in 1912
 
-![Last Judgement Miniature from the Hours of Albrecht of Brandenburg Flanders, Bruges, 1522-1523]({{site.baseurl}}/images/explore/colour_13_4.jpeg){: .img-fluid .rounded}
+![Last Judgement Miniature from the Hours of Albrecht of Brandenburg Flanders, Bruges, 1522-1523]({{site.baseurl}}/images/explore/colour_13_4.jpg){: .img-fluid .rounded}
 
 Last Judgement, Miniature from the Hours of Albrecht of Brandenburg  
 Flanders, Bruges, 1522-1523  
@@ -63,7 +62,7 @@ Bening reserved the most dramatic treatment of light and the most sophisticated 
 Purchased by the Friends of the Fitzwilliam Museum in 1918  
 [www.fitzmuseum.cam.ac.uk/illuminated](http://www.fitzmuseum.cam.ac.uk/illuminated)
 
-![Guardian Angel with a mirror-image of death Book of Hours Flanders, Bruges, c.1460-1470]({{site.baseurl}}/images/explore/colour_13_5.jpeg){: .img-fluid .rounded}
+![Guardian Angel with a mirror-image of death Book of Hours Flanders, Bruges, c.1460-1470]({{site.baseurl}}/images/explore/colour_13_5.jpg){: .img-fluid .rounded}
 
 Guardian Angel with a mirror-image of death; Book of Hours  
 Flanders, Bruges, c.1460-1470
@@ -74,7 +73,7 @@ Standing over an open grave, an Angel holds a mirror with a skull that stares at
 **Cat. 106 - Fitzwilliam Museum, MS 53, fol. 6v**
 Bequeathed by Viscount Fitzwilliam in 1816
 
-![The Three Living and the Three Dead Book of Hours Western France, c.1490-1510]({{site.baseurl}}/images/explore/colour_13_6.jpeg){: .img-fluid .rounded}
+![The Three Living and the Three Dead Book of Hours Western France, c.1490-1510]({{site.baseurl}}/images/explore/colour_13_6.jpg){: .img-fluid .rounded}
 
 The Three Living and the Three Dead  
 Book of Hours  

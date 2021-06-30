@@ -2,14 +2,14 @@
 title: "The image of the illuminator"
 layout: default
 permalink: /explore/image-of-the-illuminator
-image: "/images/explore/collection/colour_4_1.jpeg"
+image: "/images/explore/collection/colour_4_1.jpg"
 order: 4
 ---
 Not all medieval illuminators were monks. Nuns, friars and the clergy in cathedrals and parish churches – as well as monks – played a vital role in manuscript production throughout the Middle Ages and the Renaissance. By the 12th century lay professionals were travelling in search of commissions from both secular patrons and religious communities. In the 1200s, they settled in major cities and university towns, establishing thriving commercial networks that would lay the foundations for the early modern book trade.
 
 Medieval illuminators are less anonymous and invisible than we might think. Some left both their names and images, often shown in prayer. From the 12th century onwards, a few depicted themselves at work. By the 1400s illuminators are shown surrounded by tools and pigments. The presence of associates, including women, reflects the collaborative and familial nature of manuscript production.
 
-![Last Judgement Miniature from a Psalter England, Oxford, c.1230-1250]({{site.baseurl}}/images/explore/colour_4_1.jpeg){: .img-fluid }
+![Last Judgement Miniature from a Psalter England, Oxford, c.1230-1250]({{site.baseurl}}/images/explore/colour_4_1.jpg){: .img-fluid }
 
 ##### Last Judgement  
 Miniature from a Psalter England, Oxford, _c_.1230-1250

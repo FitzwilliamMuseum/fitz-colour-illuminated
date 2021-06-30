@@ -2,14 +2,14 @@
 title: "The trade in colours"
 layout: default
 permalink: /explore/trade-in-colours
-image: "/images/explore/collection/ms_mclean_49.jpeg"
+image: "/images/explore/collection/ms_mclean_49.jpg"
 order: 3
 ---
 Artists made some pigments in their workshops and bought others from merchants or apothecaries, who sold colourants with medicinal properties. Many pigments extracted from plants were available locally, for instance the yellow made from weld, the green from buckthorn and the blue from woad. Others were sourced from across Europe: blue azurite was mined in Saxony and Hungary, red kermes was produced along the Mediterranean coast.
 
 The most costly pigments were traded across continents. The commercial revolution of the 13th century made colourants widely available and coincided with the spread of the Mongol Empire which facilitated trade from Central Asia to Europe. Blue indigo and red Brazilwood travelled from South-East Asia along the silk route. The most expensive pigment was ultramarine blue, derived from the semi-precious stone lapis lazuli mined in the mountains of Badakhshan (in modern-day Afghanistan). 
 
-![Christ with the angels and seraph]({{site.baseurl}}/images/explore/MS%20McClean%2049%20%284v-5r%29resized.jpeg){: .img-fluid }
+![Christ with the angels and seraph]({{site.baseurl}}/images/explore/MS%20McClean%2049%20%284v-5r%29resized.jpg){: .img-fluid }
 
 ##### Christ with Angels and Seraph  
 Sacramentary  
@@ -20,7 +20,7 @@ This is one of the earliest manuscripts produced in the Latin Kingdom of Jerusal
 ##### Cat. 11 - Fitzwilliam Museum, MS McClean 49, fols. 4v-5r  
 Bequeathed by Frank McClean in 1904
 
-![St Matthew writing]({{site.baseurl}}/images/explore/colour_3_3.jpeg){: .img-fluid }
+![St Matthew writing]({{site.baseurl}}/images/explore/colour_3_3.jpg){: .img-fluid }
 
 ##### St Matthew writing  
 Leaf from the Gospels of Marshal Ōšin  
@@ -31,7 +31,7 @@ This leaf belonged to the Gospels made in 1274 for Marshal Ōšin, a member of t
 ##### Cat. 13 - Fitzwilliam Museum, MS McClean 201.3b  
 Bequeathed by Frank McClean in 1904
 
-![Fitna Carries an Ox up to Bahram Gur]({{site.baseurl}}/images/explore/colour_3_4.jpeg){: .img-fluid }
+![Fitna Carries an Ox up to Bahram Gur]({{site.baseurl}}/images/explore/colour_3_4.jpg){: .img-fluid }
 
 ##### Fitna Carries an Ox up to Bahram Gur  
 Nizami, Haft Paykar (‘Seven Beauties’)  

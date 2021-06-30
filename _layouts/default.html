@@ -99,6 +99,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="container">
       {% if page.url == "/explore/" %}
         {{ content }}
+      {% elsif page.url == "/rebinding/" %}
+        {{ content }}
       {% elsif page.url == "/objects/" %}
         {{ content }}
       {% else %}

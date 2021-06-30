@@ -3,10 +3,10 @@ title: Alchemy and Colour
 layout: default
 order: 6
 permalink: "/explore/alchemy-and-colour"
-image: "/images/explore/collection/ms276_crop.jpeg"
+image: "/images/explore/collection/ms276_crop.jpg"
 
 ---
-![Alchemical scroll, England, first half of the 16th century]({{site.baseurl}}/images/explore/colour_6_1.jpeg){: .img-fluid .float-right}
+![Alchemical scroll, England, first half of the 16th century]({{site.baseurl}}/images/explore/colour_6_1.jpg){: .img-fluid .float-right}
 
 Alchemy, a discipline that prepared the ground for early modern chemistry and experimental science, focused on the transmutation of ‘base’ metals (lead, tin) into ‘noble ones’ (silver, gold).  Since metals were commonly associated with celestial bodies, some artists’ recipes used the names of planets and metals interchangeably: for instance, the Sun for gold, the Moon for silver and Venus for copper. The transformation of artists’ materials was often understood in alchemical terms. Cennino Cennini’s 14th-century treatise on painting described six colours on his palette as ‘made by alchemy.’ 
 

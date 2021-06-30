@@ -1,13 +1,13 @@
-# Template Jekyll - Fitzwilliam
+# Colour illuminated
 
-Holding webpages for a forthcoming exhibition.
+A jekyll optimised version of old drupal content.
 
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
 * Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Clone the code for this repository:
-   `git clone https://github.com/FitzwilliamMuseum/fitz-jekyll-Template.git reponame`
+   `git clone https://github.com/FitzwilliamMuseum/colour-illuminated.git reponame`
 * Install the gems
    `bundle install`
 * Change to the directory and then run this command in terminal `bundle exec jekyll serve`

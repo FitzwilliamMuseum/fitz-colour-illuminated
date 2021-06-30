@@ -2,7 +2,7 @@
 title: Colour in Illuminated Manuscripts
 layout: default
 permalink: /explore/colour-in-illuminated-manuscripts
-image: "/images/explore/collection/ms251.jpeg"
+image: "/images/explore/collection/ms251.jpg"
 order: 1
 ---
 
