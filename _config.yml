@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   "This online exhibition presents a selection of the manuscripts displayed
   in the Fitzwilliam Museum’s bicentenary exhibition COLOUR: The Art and
   Science of Illuminated Manuscripts (30 July – 30 December 2016)."
-baseurl: "/colour-illuminated" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://colour-illuminated.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/banner.jpg"
