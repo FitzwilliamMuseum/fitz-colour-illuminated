@@ -18,9 +18,9 @@
   "author": "Daniel Pett",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fitzwilliammuseum/colour-illuminated/issues"
+    "url": "https://github.com/fitzwilliammuseum/fitz-colour-illuminated/issues"
   },
-  "homepage": "https://github.com/fitzwilliammuseum/colour-illuminated/#readme",
+  "homepage": "https://github.com/fitzwilliammuseum/fitz-colour-illuminated/#readme",
   "devDependencies": {
     "ajv": "^8.11.0",
     "babel-core": "^6.7.7",
