@@ -2,6 +2,9 @@
 
 A jekyll optimised version of old drupal content.
 
+![illuminated](https://user-images.githubusercontent.com/286552/164032900-05e358c5-51ab-45a8-8f0c-c0d67e9ea861.jpg)
+
+
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
