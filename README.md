@@ -1,5 +1,9 @@
 # Colour illuminated
 
+[![DOI](https://zenodo.org/badge/381325595.svg)](https://zenodo.org/badge/latestdoi/381325595)
+
+
+
 A jekyll optimised version of old drupal content.
 
 ![illuminated](https://user-images.githubusercontent.com/286552/164032900-05e358c5-51ab-45a8-8f0c-c0d67e9ea861.jpg)
